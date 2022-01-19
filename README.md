@@ -3,8 +3,7 @@ its the time to stop spawning car around the server its the time to put police c
 
 vehicle shop : will save car name and plate and hash to the data 
 
-this a easy code to made spawn was forked from dox spawn car for police 
-this 
+this script was easy to make
 
 ```
  # qb-target
