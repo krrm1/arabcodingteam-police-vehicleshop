@@ -103,11 +103,6 @@ RegisterCommand('livery', function(source, args)
     end
     end, false)
 
-
---     if (PlayerJob.name == "police") then
---         TriggerEvent("rl-policeofficers:open")
---     end
-
 -- exports['qb-target']:SpawnPed({
 --     model = 'ig_trafficwarden',
 --     coords = vector4(441.87, -1014.97, 28.65, 189.94),
