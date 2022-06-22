@@ -102,7 +102,7 @@ RegisterCommand('livery', function(source, args)
             QBCore.Functions.Notify('you don`t have the job', "error", 5000)
     end
     end, false)
-
+-- Citizen.CreateThread(function()
 -- exports['qb-target']:SpawnPed({
 --     model = 'ig_trafficwarden',
 --     coords = vector4(441.87, -1014.97, 28.65, 189.94),
@@ -126,3 +126,4 @@ RegisterCommand('livery', function(source, args)
 --     },
 --     currentpednumber = 0,
 --   })
+-- end
