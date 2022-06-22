@@ -1,4 +1,5 @@
 # police-vehicleshop
+qb-core
 its the time to stop spawning car around the server its the time to put police cars in garage 
 
 vehicle shop : will save car name and plate and hash to the data 
