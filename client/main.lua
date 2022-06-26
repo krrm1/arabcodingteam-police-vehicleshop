@@ -89,7 +89,7 @@ RegisterNetEvent('police:client:menu', function(vehName)
                     }
                 },
             }
-            exports['qb-menu']:openMenu(myMenu)
+            exports['arabcodingteam-menu']:openMenu(myMenu)
 end)
 
 RegisterCommand('livery', function(source, args)
@@ -103,7 +103,7 @@ RegisterCommand('livery', function(source, args)
     end
     end, false)
 -- Citizen.CreateThread(function()
--- exports['qb-target']:SpawnPed({
+-- exports['arabcodingteam-target']:SpawnPed({
 --     model = 'ig_trafficwarden',
 --     coords = vector4(441.87, -1014.97, 28.65, 189.94),
 --     minusOne = true,
